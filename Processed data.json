@@ -1,0 +1,2410 @@
+[
+    {
+        "id": "1766bd98036ceeb9",
+        "history_id": "6434211",
+        "thread_id": "1766bd98036ceeb9",
+        "labels": [
+            "UNREAD",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "from": "Indie Hackers ",
+        "from_name": "community@indiehackers.com>",
+        "subject": "Top Milestones: 11k MRR and 600 customers!",
+        "date": "Wed, 16 Dec 2020 08:59:44 -0500",
+        "to": [
+            {
+                "name": "",
+                "email": "me@nathanganser.com"
+            }
+        ]
+    },
+    {
+        "id": "1766bd499921cc0e",
+        "history_id": "6434110",
+        "thread_id": "1766bd499921cc0e",
+        "labels": [
+            "UNREAD",
+            "IMPORTANT",
+            "CATEGORY_PERSONAL",
+            "INBOX"
+        ],
+        "from": "\"Nat.app Personal CRM\" ",
+        "from_name": "team@nat.app>",
+        "subject": "Twettt",
+        "date": "Wed, 16 Dec 2020 14:54:11 +0100",
+        "to": [
+            {
+                "name": "Nathan Ganser ",
+                "email": "me@nathanganser.com>"
+            },
+            {
+                "name": " \"Nat.app Personal CRM\" ",
+                "email": "nathan@nat.app>"
+            }
+        ]
+    },
+    {
+        "id": "1766bd41b6237440",
+        "history_id": "6434108",
+        "thread_id": "1766bd410604c507",
+        "labels": [
+            "SENT"
+        ],
+        "from": "Nathan Ganser ",
+        "from_name": "me@nathanganser.com>",
+        "subject": "Testing",
+        "date": "Wed, 16 Dec 2020 14:53:50 +0100",
+        "to": [
+            {
+                "name": "Nathan Ganser ",
+                "email": "moi@nathanganser.com>"
+            },
+            {
+                "name": " \"Nat.app\" ",
+                "email": "team@nat.app>"
+            }
+        ]
+    },
+    {
+        "id": "1766bd3937ff281d",
+        "history_id": "6434025",
+        "thread_id": "1766bd382b239b39",
+        "labels": [
+            "SENT"
+        ],
+        "from": "Nathan Ganser ",
+        "from_name": "me@nathanganser.com>",
+        "subject": "Re: Nat.app Team call",
+        "date": "Wed, 16 Dec 2020 14:53:15 +0100",
+        "to": [
+            {
+                "name": "Marie-Lou Wechsler ",
+                "email": "marie-lou.wechsler@live.fr>"
+            },
+            {
+                "name": " Stefano Amedeo ",
+                "email": "ste.amedeo@gmail.com>"
+            }
+        ]
+    },
+    {
+        "id": "1766bc56f6e331d8",
+        "history_id": "6433957",
+        "thread_id": "1761c6e9ca578e1a",
+        "labels": [
+            "UNREAD",
+            "IMPORTANT",
+            "CATEGORY_PERSONAL",
+            "INBOX"
+        ],
+        "from": "Devon Groff ",
+        "from_name": "devon@retool.com>",
+        "subject": "Re: \ud83d\udc4b Nathan",
+        "date": "Wed, 16 Dec 2020 08:37:49 -0500",
+        "to": [
+            {
+                "name": "Nathan Ganser ",
+                "email": "me@nathanganser.com>"
+            }
+        ]
+    },
+    {
+        "id": "1766bc2a91e84262",
+        "history_id": "6433958",
+        "thread_id": "1766bc2a91e84262",
+        "labels": [
+            "CATEGORY_PROMOTIONS",
+            "UNREAD",
+            "INBOX"
+        ],
+        "from": "digitec News ",
+        "from_name": "news@digitecgalaxus.ch>",
+        "subject": "15\u00a0% de r\u00e9duction sur les casques Sony",
+        "date": "Wed, 16 Dec 2020 13:34:46 +0000 (UTC)",
+        "to": [
+            {
+                "name": "",
+                "email": "me@nathanganser.com"
+            }
+        ]
+    },
+    {
+        "id": "1766ba54c8e3cf92",
+        "history_id": "6433687",
+        "thread_id": "1766221ce9db0659",
+        "labels": [
+            "SENT"
+        ],
+        "from": "Nathan Ganser ",
+        "from_name": "me@nathanganser.com>",
+        "subject": "Re: Catching up :)",
+        "date": "Wed, 16 Dec 2020 14:02:42 +0100",
+        "to": [
+            {
+                "name": "\"Tomek Wo\u017aniak\" ",
+                "email": "tomek@tomekwozniak.pl>"
+            }
+        ]
+    },
+    {
+        "id": "1766b91d70bff740",
+        "history_id": "6433623",
+        "thread_id": "1766b91d70bff740",
+        "labels": [
+            "IMPORTANT",
+            "CATEGORY_PERSONAL",
+            "INBOX"
+        ],
+        "from": "Nathan Julian Ganser ",
+        "from_name": "Nathan.Ganser@etu.unige.ch>",
+        "subject": "FW: Nouveau message de Herv\u00e9gil Voegeli",
+        "date": "Wed, 16 Dec 2020 12:41:27 +0000",
+        "to": [
+            {
+                "name": "\"me@nathanganser.com\" ",
+                "email": "me@nathanganser.com>"
+            }
+        ]
+    },
+    {
+        "id": "1766b87550e23794",
+        "history_id": "6433525",
+        "thread_id": "1766221ce9db0659",
+        "labels": [
+            "IMPORTANT",
+            "CATEGORY_PERSONAL",
+            "INBOX"
+        ],
+        "from": "\"Tomek Wo\u017aniak\" ",
+        "from_name": "tomek@tomekwozniak.pl>",
+        "subject": "Re: Catching up :)",
+        "date": "Wed, 16 Dec 2020 13:29:56 +0100",
+        "to": [
+            {
+                "name": "Nathan Ganser ",
+                "email": "me@nathanganser.com>"
+            }
+        ]
+    },
+    {
+        "id": "1766b82fb9782de2",
+        "history_id": "6433620",
+        "thread_id": "1766b071dae91a04",
+        "labels": [
+            "UNREAD",
+            "IMPORTANT",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "from": "\"Team at Nat.app\" ",
+        "from_name": "calendaronboarding@nat.app>",
+        "subject": "Try your new note taking app :)",
+        "date": "Wed, 16 Dec 2020 12:24:54 +0000",
+        "to": [
+            {
+                "name": "",
+                "email": "me@nathanganser.com"
+            }
+        ]
+    },
+    {
+        "id": "1766b7c8456366d0",
+        "history_id": "6433355",
+        "thread_id": "1766b40bec09b124",
+        "labels": [
+            "IMPORTANT",
+            "CATEGORY_PERSONAL",
+            "INBOX"
+        ],
+        "from": "\"Nathan from Nat.app\" ",
+        "from_name": "team@nat.app>",
+        "subject": "Nat.app - Welcome :D",
+        "date": "Wed, 16 Dec 2020 12:18:10 +0000",
+        "to": [
+            {
+                "name": "",
+                "email": "ich@nathanganser.com"
+            }
+        ]
+    },
+    {
+        "id": "1766b7b0d9db9121",
+        "history_id": "6432900",
+        "thread_id": "1766b7b0d9db9121",
+        "labels": [
+            "IMPORTANT",
+            "CATEGORY_PERSONAL",
+            "INBOX"
+        ],
+        "from": "\"Nat.app Login Email\" ",
+        "from_name": "team@nat.app>",
+        "subject": "Nat.app - Login Code 8253073940",
+        "date": "Wed, 16 Dec 2020 12:16:34 +0000",
+        "to": [
+            {
+                "name": "",
+                "email": "ich@nathanganser.com"
+            }
+        ]
+    },
+    {
+        "id": "1766b6dba0239f03",
+        "history_id": "6432807",
+        "thread_id": "1766b6dba0239f03",
+        "labels": [
+            "IMPORTANT",
+            "CATEGORY_PERSONAL",
+            "INBOX"
+        ],
+        "from": "Nathan Julian Ganser ",
+        "from_name": "Nathan.Ganser@etu.unige.ch>",
+        "subject": "RV: [ERRATUM] Examen en pr\u00e9sentiel-session Janvier / f\u00e9vrier 2021",
+        "date": "Wed, 16 Dec 2020 12:01:51 +0000",
+        "to": [
+            {
+                "name": "\"me@nathanganser.com\" ",
+                "email": "me@nathanganser.com>"
+            }
+        ]
+    },
+    {
+        "id": "1766b4bae70a2e61",
+        "history_id": "6432748",
+        "thread_id": "1766b4bae70a2e61",
+        "labels": [
+            "IMPORTANT",
+            "CATEGORY_PERSONAL",
+            "INBOX"
+        ],
+        "from": "Nathan Julian Ganser ",
+        "from_name": "Nathan.Ganser@etu.unige.ch>",
+        "subject": "RV: [IMPORTANT] Examen en pr\u00e9sentiel-session Janvier / f\u00e9vrier 2021",
+        "date": "Wed, 16 Dec 2020 11:24:49 +0000",
+        "to": [
+            {
+                "name": "\"me@nathanganser.com\" ",
+                "email": "me@nathanganser.com>"
+            }
+        ]
+    },
+    {
+        "id": "1766b40fefad65b4",
+        "history_id": "6433620",
+        "thread_id": "1766b071dae91a04",
+        "labels": [
+            "UNREAD",
+            "IMPORTANT",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "from": "\"Team at Nat.app\" ",
+        "from_name": "calendaronboarding@nat.app>",
+        "subject": "Try your new note taking app :)",
+        "date": "Wed, 16 Dec 2020 11:13:01 +0000",
+        "to": [
+            {
+                "name": "",
+                "email": "me@nathanganser.com"
+            }
+        ]
+    },
+    {
+        "id": "1766b40bec09b124",
+        "history_id": "6433355",
+        "thread_id": "1766b40bec09b124",
+        "labels": [
+            "IMPORTANT",
+            "CATEGORY_PERSONAL",
+            "INBOX"
+        ],
+        "from": "\"Nathan from Nat.app\" ",
+        "from_name": "team@nat.app>",
+        "subject": "Nat.app - Welcome :D",
+        "date": "Wed, 16 Dec 2020 11:12:39 +0000",
+        "to": [
+            {
+                "name": "",
+                "email": "moi@nathanganser.com"
+            }
+        ]
+    },
+    {
+        "id": "1766b408b7b867ae",
+        "history_id": "6433621",
+        "thread_id": "1766b408b7b867ae",
+        "labels": [
+            "UNREAD",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "from": "Ajay Goel ",
+        "from_name": "ajay@wordzen.com>",
+        "subject": "Personalize emails to the max with conditional content",
+        "date": "Wed, 16 Dec 2020 11:12:38 +0000 (UTC)",
+        "to": [
+            {
+                "name": "",
+                "email": "me@nathanganser.com"
+            }
+        ]
+    },
+    {
+        "id": "1766b4068e91f2ae",
+        "history_id": "6432680",
+        "thread_id": "1766b4068e91f2ae",
+        "labels": [
+            "IMPORTANT",
+            "CATEGORY_PERSONAL",
+            "INBOX"
+        ],
+        "from": "\"Nat.app Login Email\" ",
+        "from_name": "team@nat.app>",
+        "subject": "Nat.app - Login Code 7121589038",
+        "date": "Wed, 16 Dec 2020 11:12:21 +0000",
+        "to": [
+            {
+                "name": "",
+                "email": "moi@nathanganser.com"
+            }
+        ]
+    },
+    {
+        "id": "1766b2edbc8038a8",
+        "history_id": "6431994",
+        "thread_id": "1766b2edbc8038a8",
+        "labels": [
+            "UNREAD",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "from": "\"David A. Fields\" ",
+        "from_name": "david@davidafields.com>",
+        "subject": "The ONLY Best Way to Practice Consulting",
+        "date": "Wed, 16 Dec 2020 04:47:41 -0600",
+        "to": [
+            {
+                "name": "Natha ",
+                "email": "me@nathanganser.com>"
+            }
+        ]
+    },
+    {
+        "id": "1766b230f403b260",
+        "history_id": "6431993",
+        "thread_id": "1766b230f403b260",
+        "labels": [
+            "UNREAD",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "from": "HARO ",
+        "from_name": "haro@helpareporter.com>",
+        "subject": "[HARO] High Tech Queries: Morning  Edition",
+        "date": "Wed, 16 Dec 2020 05:36:26 -0500",
+        "to": [
+            {
+                "name": "Nathan Ganser ",
+                "email": "me@nathanganser.com>"
+            }
+        ]
+    },
+    {
+        "id": "1766b071dae91a04",
+        "history_id": "6431641",
+        "thread_id": "1766b071dae91a04",
+        "labels": [
+            "UNREAD",
+            "IMPORTANT",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "from": "\"Team at Nat.app\" ",
+        "from_name": "calendaronboarding@nat.app>",
+        "subject": "Try your new note taking app :)",
+        "date": "Wed, 16 Dec 2020 10:09:44 +0000",
+        "to": [
+            {
+                "name": "",
+                "email": "me@nathanganser.com"
+            }
+        ]
+    },
+    {
+        "id": "1766b06a41089820",
+        "history_id": "6431640",
+        "thread_id": "1766b06a41089820",
+        "labels": [
+            "IMPORTANT",
+            "CATEGORY_PERSONAL",
+            "INBOX"
+        ],
+        "from": "\"Nat.app Login Email\" ",
+        "from_name": "team@nat.app>",
+        "subject": "Nat.app - Login Code 1990879027",
+        "date": "Wed, 16 Dec 2020 10:09:21 +0000",
+        "to": [
+            {
+                "name": "",
+                "email": "me@nathanganser.com"
+            }
+        ]
+    },
+    {
+        "id": "1766b04ec63bca66",
+        "history_id": "6431462",
+        "thread_id": "1766b04ec63bca66",
+        "labels": [
+            "IMPORTANT",
+            "CATEGORY_PERSONAL",
+            "INBOX"
+        ],
+        "from": "\"Nat.app Login Email\" ",
+        "from_name": "team@nat.app>",
+        "subject": "Nat.app - Login Code 3002902536",
+        "date": "Wed, 16 Dec 2020 10:07:33 +0000",
+        "to": [
+            {
+                "name": "",
+                "email": "me@nathanganser.com"
+            }
+        ]
+    },
+    {
+        "id": "1766b02cb76a2617",
+        "history_id": "6431316",
+        "thread_id": "1766b02cb76a2617",
+        "labels": [
+            "IMPORTANT",
+            "CATEGORY_PERSONAL",
+            "INBOX"
+        ],
+        "from": "\"Nat.app Login Email\" ",
+        "from_name": "team@nat.app>",
+        "subject": "Nat.app - Login Code 1163785308",
+        "date": "Wed, 16 Dec 2020 10:05:12 +0000",
+        "to": [
+            {
+                "name": "",
+                "email": "me@nathanganser.com"
+            }
+        ]
+    },
+    {
+        "id": "1766affa5ba92dcc",
+        "history_id": "6431903",
+        "thread_id": "17652649faad1349",
+        "labels": [
+            "SENT"
+        ],
+        "from": "Nathan Ganser ",
+        "from_name": "me@nathanganser.com>",
+        "subject": "Re: Catching up!",
+        "date": "Wed, 16 Dec 2020 11:01:46 +0100",
+        "to": [
+            {
+                "name": "Jack Bartlett ",
+                "email": "jackbbartlett@gmail.com>"
+            }
+        ]
+    },
+    {
+        "id": "1766afdea3653540",
+        "history_id": "6431904",
+        "thread_id": "176681b4ce0d5e15",
+        "labels": [
+            "SENT"
+        ],
+        "from": "Nathan Ganser ",
+        "from_name": "me@nathanganser.com>",
+        "subject": "Re: Nice to meet",
+        "date": "Wed, 16 Dec 2020 10:59:53 +0100",
+        "to": [
+            {
+                "name": "Stefano Glauser ",
+                "email": "stefano.glauser@gmail.com>"
+            }
+        ]
+    },
+    {
+        "id": "1766afd03ea8c113",
+        "history_id": "6431907",
+        "thread_id": "176681ced5b8b479",
+        "labels": [
+            "SENT"
+        ],
+        "from": "Nathan Ganser ",
+        "from_name": "me@nathanganser.com>",
+        "subject": "Re: Great meeting you!",
+        "date": "Wed, 16 Dec 2020 10:58:54 +0100",
+        "to": [
+            {
+                "name": "Manuel Buri ",
+                "email": "manuel.buri@gmail.com>"
+            }
+        ]
+    },
+    {
+        "id": "1766af78fdc6b971",
+        "history_id": "6430402",
+        "thread_id": "1766af78fdc6b971",
+        "labels": [
+            "IMPORTANT",
+            "CATEGORY_PERSONAL",
+            "INBOX"
+        ],
+        "from": "\"Nat.app Login Email\" ",
+        "from_name": "team@nat.app>",
+        "subject": "Nat.app - Login Code 7652470776",
+        "date": "Wed, 16 Dec 2020 09:52:57 +0000",
+        "to": [
+            {
+                "name": "",
+                "email": "me@nathanganser.com"
+            }
+        ]
+    },
+    {
+        "id": "1766ae97918b0ce6",
+        "history_id": "6430492",
+        "thread_id": "176681ced5b8b479",
+        "labels": [
+            "IMPORTANT",
+            "CATEGORY_PERSONAL"
+        ],
+        "from": "Manuel Buri ",
+        "from_name": "manuel.buri@gmail.com>",
+        "subject": "Re: Great meeting you!",
+        "date": "Wed, 16 Dec 2020 09:37:22 +0000",
+        "to": [
+            {
+                "name": "Nathan Ganser ",
+                "email": "me@nathanganser.com>"
+            }
+        ]
+    },
+    {
+        "id": "1766adc8560068e1",
+        "history_id": "6430311",
+        "thread_id": "1766adc8560068e1",
+        "labels": [
+            "IMPORTANT",
+            "CATEGORY_PERSONAL",
+            "INBOX"
+        ],
+        "from": "\"Nat.app Login Email\" ",
+        "from_name": "team@nat.app>",
+        "subject": "Nat.app - Login Code 7337812607",
+        "date": "Wed, 16 Dec 2020 09:23:15 +0000",
+        "to": [
+            {
+                "name": "",
+                "email": "me@nathanganser.com"
+            }
+        ]
+    },
+    {
+        "id": "1766ad9d2dca558a",
+        "history_id": "6430004",
+        "thread_id": "1766ad9d2dca558a",
+        "labels": [
+            "IMPORTANT",
+            "CATEGORY_PERSONAL",
+            "INBOX"
+        ],
+        "from": "Nathan Julian Ganser ",
+        "from_name": "Nathan.Ganser@etu.unige.ch>",
+        "subject": "FW: S104010\u00a0: Notes du 1er examen et \u00e0 propos du 2d examen",
+        "date": "Wed, 16 Dec 2020 09:20:27 +0000",
+        "to": [
+            {
+                "name": "\"me@nathanganser.com\" ",
+                "email": "me@nathanganser.com>"
+            }
+        ]
+    },
+    {
+        "id": "1766ac223a9ab22a",
+        "history_id": "6429955",
+        "thread_id": "1766ac223a9ab22a",
+        "labels": [
+            "UNREAD",
+            "IMPORTANT",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "from": "Frontier ",
+        "from_name": "frontier@pioneer.app>",
+        "subject": "seditionmusic.com replied to your feedback",
+        "date": "Wed, 16 Dec 2020 08:54:34 +0000 (UTC)",
+        "to": [
+            {
+                "name": "Nathan Ganser ",
+                "email": "me@nathanganser.com>"
+            }
+        ]
+    },
+    {
+        "id": "1766ab27becc10fe",
+        "history_id": "6431040",
+        "thread_id": "1766ab27becc10fe",
+        "labels": [
+            "IMPORTANT",
+            "CATEGORY_PERSONAL",
+            "INBOX"
+        ],
+        "from": "Nathan Julian Ganser ",
+        "from_name": "Nathan.Ganser@etu.unige.ch>",
+        "subject": "FW: 32C2064\u00a0: TP11 jeudi 17.12",
+        "date": "Wed, 16 Dec 2020 08:37:29 +0000",
+        "to": [
+            {
+                "name": "\"me@nathanganser.com\" ",
+                "email": "me@nathanganser.com>"
+            }
+        ]
+    },
+    {
+        "id": "1766a68355e25f27",
+        "history_id": "6429954",
+        "thread_id": "1766a68355e25f27",
+        "labels": [
+            "UNREAD",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "from": "\"UpHabit's Founder\" ",
+        "from_name": "founder@uphabit.com>",
+        "subject": "Your weekly exclusive update Nathan",
+        "date": "Wed, 16 Dec 2020 07:16:22 +0000",
+        "to": [
+            {
+                "name": "",
+                "email": "me@nathanganser.com"
+            }
+        ]
+    },
+    {
+        "id": "1766a4352e68c4aa",
+        "history_id": "6430660",
+        "thread_id": "176681b4ce0d5e15",
+        "labels": [
+            "IMPORTANT",
+            "CATEGORY_PERSONAL",
+            "INBOX"
+        ],
+        "from": "Stefano Glauser ",
+        "from_name": "stefano.glauser@gmail.com>",
+        "subject": "Re: Nice to meet",
+        "date": "Tue, 15 Dec 2020 22:36:04 -0800",
+        "to": [
+            {
+                "name": "Nathan Ganser ",
+                "email": "me@nathanganser.com>"
+            }
+        ]
+    },
+    {
+        "id": "17669b6d33cd8ca7",
+        "history_id": "6429897",
+        "thread_id": "17669b6d33cd8ca7",
+        "labels": [
+            "UNREAD",
+            "IMPORTANT",
+            "CATEGORY_PERSONAL",
+            "INBOX"
+        ],
+        "from": "Nathan Julian Ganser ",
+        "from_name": "Nathan.Ganser@etu.unige.ch>",
+        "subject": "FW: Merci d'\u00e9valuer/Please evaluate your teaching \"Travaux pratiques d'Info I - Programmation web (32C2065A20M)\"",
+        "date": "Wed, 16 Dec 2020 04:02:37 +0000",
+        "to": [
+            {
+                "name": "\"me@nathanganser.com\" ",
+                "email": "me@nathanganser.com>"
+            }
+        ]
+    },
+    {
+        "id": "17669b6044505daf",
+        "history_id": "6429896",
+        "thread_id": "17669b6044505daf",
+        "labels": [
+            "UNREAD",
+            "IMPORTANT",
+            "CATEGORY_PERSONAL",
+            "INBOX"
+        ],
+        "from": "Nathan Julian Ganser ",
+        "from_name": "Nathan.Ganser@etu.unige.ch>",
+        "subject": "FW: Merci d'\u00e9valuer/Please evaluate your teaching \"Info I - D\u00e9veloppement web (32C2064A20M)\"",
+        "date": "Wed, 16 Dec 2020 04:01:43 +0000",
+        "to": [
+            {
+                "name": "\"me@nathanganser.com\" ",
+                "email": "me@nathanganser.com>"
+            }
+        ]
+    },
+    {
+        "id": "17668cf310730355",
+        "history_id": "6430796",
+        "thread_id": "17652649faad1349",
+        "labels": [
+            "IMPORTANT",
+            "CATEGORY_PERSONAL",
+            "INBOX"
+        ],
+        "from": "Jack Bartlett ",
+        "from_name": "jackbbartlett@gmail.com>",
+        "subject": "Re: Catching up!",
+        "date": "Wed, 16 Dec 2020 09:49:25 +1000",
+        "to": [
+            {
+                "name": "Nathan Ganser ",
+                "email": "me@nathanganser.com>"
+            }
+        ]
+    },
+    {
+        "id": "17668b0664e2a874",
+        "history_id": "6430852",
+        "thread_id": "17668b0664e2a874",
+        "labels": [
+            "IMPORTANT",
+            "CATEGORY_PERSONAL",
+            "INBOX"
+        ],
+        "from": "Nathan Julian Ganser ",
+        "from_name": "Nathan.Ganser@etu.unige.ch>",
+        "subject": "FW: 32C2064\u00a0: Dev web - Corrig\u00e9 de l'examen blanc et progression au cours",
+        "date": "Tue, 15 Dec 2020 23:15:58 +0000",
+        "to": [
+            {
+                "name": "\"me@nathanganser.com\" ",
+                "email": "me@nathanganser.com>"
+            }
+        ]
+    },
+    {
+        "id": "17668a0d975154b5",
+        "history_id": "6430911",
+        "thread_id": "17668a0d975154b5",
+        "labels": [
+            "CATEGORY_PERSONAL",
+            "INBOX"
+        ],
+        "from": "",
+        "from_name": "",
+        "subject": "Invitation: Global Office Hours with Daniel @ Fri Dec 18, 2020 7pm - 8pm (CET) (Nathan Ganser)",
+        "date": "Tue, 15 Dec 2020 22:58:59 +0000",
+        "to": [
+            {
+                "name": "Nathan Ganser ",
+                "email": "me@nathanganser.com>"
+            }
+        ]
+    },
+    {
+        "id": "176689192c5ba305",
+        "history_id": "6429953",
+        "thread_id": "176689192c5ba305",
+        "labels": [
+            "UNREAD",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "from": "HARO ",
+        "from_name": "haro@helpareporter.com>",
+        "subject": "[HARO] High Tech Queries: Evening Edition",
+        "date": "Tue, 15 Dec 2020 17:39:20 -0500",
+        "to": [
+            {
+                "name": "Nathan Ganser ",
+                "email": "me@nathanganser.com>"
+            }
+        ]
+    },
+    {
+        "id": "1766866f45583982",
+        "history_id": "6429952",
+        "thread_id": "1766866f45583982",
+        "labels": [
+            "UNREAD",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "from": "\"Wix.com\" ",
+        "from_name": "wix-team@notifications.wix.com>",
+        "subject": "Your domain webbiger.net is about to expire",
+        "date": "Tue, 15 Dec 2020 13:55:45 -0800",
+        "to": [
+            {
+                "name": "",
+                "email": "me@nathanganser.com"
+            }
+        ]
+    },
+    {
+        "id": "17668427c452107b",
+        "history_id": "6429893",
+        "thread_id": "17668427c452107b",
+        "labels": [
+            "UNREAD",
+            "CATEGORY_PERSONAL",
+            "INBOX"
+        ],
+        "from": "Dana Chapuis ",
+        "from_name": "dana.chapuis@gmail.com>",
+        "subject": "Accepted: Vacancies potentielles @ Mon Feb 15 - Sat Feb 20, 2021 (Nathan Ganser)",
+        "date": "Tue, 15 Dec 2020 21:15:56 +0000",
+        "to": [
+            {
+                "name": "Nathan Ganser ",
+                "email": "me@nathanganser.com>"
+            }
+        ]
+    },
+    {
+        "id": "1766841f5b48d4a5",
+        "history_id": "6429951",
+        "thread_id": "1766841f5b48d4a5",
+        "labels": [
+            "UNREAD",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "from": "tBTC ",
+        "from_name": "list@tbtc.network>",
+        "subject": "TBTC is Available on CoinList",
+        "date": "Tue, 15 Dec 2020 21:15:12 +0000",
+        "to": [
+            {
+                "name": "",
+                "email": "me@nathanganser.com"
+            }
+        ]
+    },
+    {
+        "id": "176683ed8dcefbd6",
+        "history_id": "6430956",
+        "thread_id": "176683ed8dcefbd6",
+        "labels": [
+            "IMPORTANT",
+            "CATEGORY_PERSONAL",
+            "INBOX"
+        ],
+        "from": "Dana Chapuis ",
+        "from_name": "dana.chapuis@gmail.com>",
+        "subject": "Invitation: Chalet @ Mon Dec 21 8am - Wed Dec 23, 2020 6pm (CET) (Nathan Ganser)",
+        "date": "Tue, 15 Dec 2020 21:11:57 +0000",
+        "to": [
+            {
+                "name": "Nathan Ganser ",
+                "email": "me@nathanganser.com>"
+            }
+        ]
+    },
+    {
+        "id": "176683e28ab9eb25",
+        "history_id": "6429891",
+        "thread_id": "176683e28ab9eb25",
+        "labels": [
+            "UNREAD",
+            "CATEGORY_PERSONAL",
+            "INBOX"
+        ],
+        "from": "Dana Chapuis ",
+        "from_name": "dana.chapuis@gmail.com>",
+        "subject": "Declined: Chalet @ Sat Dec 19 - Mon Dec 21, 2020 (Nathan Ganser)",
+        "date": "Tue, 15 Dec 2020 21:11:12 +0000",
+        "to": [
+            {
+                "name": "Nathan Ganser ",
+                "email": "me@nathanganser.com>"
+            }
+        ]
+    },
+    {
+        "id": "17668356cad64494",
+        "history_id": "6429950",
+        "thread_id": "17668356cad64494",
+        "labels": [
+            "UNREAD",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "from": "Steven from Lowdown ",
+        "from_name": "steve@getlowdown.com>",
+        "subject": "Your trial expires in 5 days",
+        "date": "Tue, 15 Dec 2020 21:01:39 +0000",
+        "to": [
+            {
+                "name": "",
+                "email": "me@nathanganser.com"
+            }
+        ]
+    },
+    {
+        "id": "176681dfdaae418e",
+        "history_id": "6431909",
+        "thread_id": "176681ced5b8b479",
+        "labels": [
+            "SENT"
+        ],
+        "from": "Nathan Ganser ",
+        "from_name": "me@nathanganser.com>",
+        "subject": "Great meeting you!",
+        "date": "Tue, 15 Dec 2020 21:36:03 +0100",
+        "to": [
+            {
+                "name": "",
+                "email": "manuel.buri@gmail.com"
+            }
+        ]
+    },
+    {
+        "id": "176681bd6602e75b",
+        "history_id": "6431906",
+        "thread_id": "176681b4ce0d5e15",
+        "labels": [
+            "SENT"
+        ],
+        "from": "Nathan Ganser ",
+        "from_name": "me@nathanganser.com>",
+        "subject": "Nice to meet",
+        "date": "Tue, 15 Dec 2020 21:33:43 +0100",
+        "to": [
+            {
+                "name": "",
+                "email": "stefano.glauser@gmail.com"
+            }
+        ]
+    },
+    {
+        "id": "1766801fece527b4",
+        "history_id": "6427692",
+        "thread_id": "1766801fece527b4",
+        "labels": [
+            "UNREAD",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "from": "Indie Hackers ",
+        "from_name": "channing@indiehackers.com>",
+        "subject": "\ud83d\uddde What's New: We're in a Podcasting Gold Rush \u00b7 The \"Micro Everything\" Trend in Web Dev",
+        "date": "Tue, 15 Dec 2020 20:05:27 +0000 (UTC)",
+        "to": [
+            {
+                "name": "",
+                "email": "me@nathanganser.com"
+            }
+        ]
+    },
+    {
+        "id": "17667e77793c3233",
+        "history_id": "6427691",
+        "thread_id": "17667e77793c3233",
+        "labels": [
+            "UNREAD",
+            "IMPORTANT",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "from": "KC from Freshworks ",
+        "from_name": "editor@freshworks.com>",
+        "subject": "Give your agents a break this holiday season & let \u2018AI\u2019 take over ",
+        "date": "Tue, 15 Dec 2020 19:36:30 +0000 (UTC)",
+        "to": [
+            {
+                "name": "Nathan Ganser ",
+                "email": "me@nathanganser.com>"
+            }
+        ]
+    },
+    {
+        "id": "17667ca4f77c6b72",
+        "history_id": "6427690",
+        "thread_id": "17667ca4f77c6b72",
+        "labels": [
+            "UNREAD",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "from": "Vue Mastery ",
+        "from_name": "team@vuemastery.com>",
+        "subject": "How to deploy your App + Router Redirect & Alias",
+        "date": "Tue, 15 Dec 2020 21:04:39 +0200",
+        "to": [
+            {
+                "name": "",
+                "email": "me@nathanganser.com"
+            }
+        ]
+    },
+    {
+        "id": "17667911b572362f",
+        "history_id": "6427195",
+        "thread_id": "17667911b572362f",
+        "labels": [
+            "UNREAD",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "from": "Revolut Business ",
+        "from_name": "no-reply@revolut.com>",
+        "subject": "Add your company card to Apple Pay",
+        "date": "Tue, 15 Dec 2020 18:02:10 +0000",
+        "to": [
+            {
+                "name": "",
+                "email": "me@nathanganser.com"
+            }
+        ]
+    },
+    {
+        "id": "176677cd45c34e2c",
+        "history_id": "6427194",
+        "thread_id": "176677cd45c34e2c",
+        "labels": [
+            "UNREAD",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "from": "HARO ",
+        "from_name": "haro@helpareporter.com>",
+        "subject": "[HARO] High Tech Queries: Afternoon Edition",
+        "date": "Tue, 15 Dec 2020 12:36:59 -0500",
+        "to": [
+            {
+                "name": "Nathan Ganser ",
+                "email": "me@nathanganser.com>"
+            }
+        ]
+    },
+    {
+        "id": "1766776e0a62078c",
+        "history_id": "6426804",
+        "thread_id": "1766776e0a62078c",
+        "labels": [
+            "UNREAD",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "from": "Netlify Team ",
+        "from_name": "no-reply@netlify.com>",
+        "subject": "New Tech Partners, One-click Next.js on Netlify - Netlify December Newsletter",
+        "date": "Tue, 15 Dec 2020 09:33:32 -0800",
+        "to": [
+            {
+                "name": "",
+                "email": "me@nathanganser.com"
+            }
+        ]
+    },
+    {
+        "id": "17667746267a671f",
+        "history_id": "6426803",
+        "thread_id": "17667746267a671f",
+        "labels": [
+            "UNREAD",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "from": "Pictet Wealth Management ",
+        "from_name": "insights@newsletters.group.pictet>",
+        "subject": "Pictet Perspectives | Weekly digest",
+        "date": "Tue, 15 Dec 2020 17:30:30 GMT",
+        "to": [
+            {
+                "name": "",
+                "email": "me@nathanganser.com>"
+            }
+        ]
+    },
+    {
+        "id": "17667462287b7587",
+        "history_id": "6426521",
+        "thread_id": "17667462287b7587",
+        "labels": [
+            "IMPORTANT",
+            "CATEGORY_PERSONAL",
+            "INBOX"
+        ],
+        "from": "Nathan Julian Ganser ",
+        "from_name": "Nathan.Ganser@etu.unige.ch>",
+        "subject": "FW: 12X014\u00a0: Cryptographie - RAPPEL Examen Blanc",
+        "date": "Tue, 15 Dec 2020 16:40:17 +0000",
+        "to": [
+            {
+                "name": "\"me@nathanganser.com\" ",
+                "email": "me@nathanganser.com>"
+            }
+        ]
+    },
+    {
+        "id": "1766728efdfb92ea",
+        "history_id": "6426133",
+        "thread_id": "1766728efdfb92ea",
+        "labels": [
+            "UNREAD",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "from": "NFX ",
+        "from_name": "qed@nfx.com>",
+        "subject": "Where To Build Your Startup",
+        "date": "Tue, 15 Dec 2020 08:08:24 -0800",
+        "to": [
+            {
+                "name": "",
+                "email": "me@nathanganser.com"
+            }
+        ]
+    },
+    {
+        "id": "1766726385d1bde5",
+        "history_id": "6426080",
+        "thread_id": "1766726385d1bde5",
+        "labels": [
+            "CATEGORY_PROMOTIONS",
+            "UNREAD",
+            "INBOX"
+        ],
+        "from": "\"Voyage Priv\u00e9\" ",
+        "from_name": "news@email.voyageprive.com>",
+        "subject": "Center Hotels Midgardur 4* et excursion : Exclusif",
+        "date": "Tue, 15 Dec 2020 17:05:49 +0100",
+        "to": [
+            {
+                "name": "",
+                "email": "nathanganserpro@gmail.com>"
+            }
+        ]
+    },
+    {
+        "id": "17667218936e8323",
+        "history_id": "6426132",
+        "thread_id": "17667218936e8323",
+        "labels": [
+            "UNREAD",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "from": "SpectroCoin ",
+        "from_name": "info@spectrocoin.com>",
+        "subject": "Need money for Christmas presents? Get a Crypto Loan",
+        "date": "Tue, 15 Dec 2020 18:00:16 +0200",
+        "to": [
+            {
+                "name": "",
+                "email": "nathanganserpro@gmail.com"
+            }
+        ]
+    },
+    {
+        "id": "17667215cf6052e1",
+        "history_id": "6426131",
+        "thread_id": "17667215cf6052e1",
+        "labels": [
+            "UNREAD",
+            "IMPORTANT",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "from": "Team Windsor ",
+        "from_name": "team@windsor.io>",
+        "subject": "nat report: 4,212 new events and 490 new users",
+        "date": "Tue, 15 Dec 2020 16:00:06 +0000 (UTC)",
+        "to": [
+            {
+                "name": "",
+                "email": "me@nathanganser.com"
+            }
+        ]
+    },
+    {
+        "id": "176671f9fa49f911",
+        "history_id": "6426130",
+        "thread_id": "176671f9fa49f911",
+        "labels": [
+            "UNREAD",
+            "IMPORTANT",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "from": "Frontier ",
+        "from_name": "frontier@pioneer.app>",
+        "subject": "peterchau replied to your feedback",
+        "date": "Tue, 15 Dec 2020 15:58:14 +0000 (UTC)",
+        "to": [
+            {
+                "name": "Nathan Ganser ",
+                "email": "me@nathanganser.com>"
+            }
+        ]
+    },
+    {
+        "id": "17667161238440b3",
+        "history_id": "6426129",
+        "thread_id": "17667161238440b3",
+        "labels": [
+            "UNREAD",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "from": "Peter Shankman ",
+        "from_name": "peter@shankman.com>",
+        "subject": "Want to be a Paid Keynote Speaker in 2021?",
+        "date": "Tue, 15 Dec 2020 15:47:47 +0000 (UTC)",
+        "to": [
+            {
+                "name": "Nathan ",
+                "email": "me@nathanganser.com>"
+            }
+        ]
+    },
+    {
+        "id": "17667133822bf79a",
+        "history_id": "6426079",
+        "thread_id": "17667133822bf79a",
+        "labels": [
+            "UNREAD",
+            "CATEGORY_PERSONAL",
+            "INBOX"
+        ],
+        "from": "",
+        "from_name": "",
+        "subject": "Invitation: Pioneer Meal @ Thu Dec 17, 2020 7pm - 8pm (CET) (Nathan Ganser)",
+        "date": "Tue, 15 Dec 2020 15:44:41 +0000",
+        "to": [
+            {
+                "name": "Nathan Ganser ",
+                "email": "me@nathanganser.com>"
+            }
+        ]
+    },
+    {
+        "id": "176670dd05d60907",
+        "history_id": "6426223",
+        "thread_id": "176670dd05d60907",
+        "labels": [
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "from": "Slack ",
+        "from_name": "feedback@slack.com>",
+        "subject": "Startup Jam Sessions \ud83c\udfb7 on Slack: New Account Details",
+        "date": "Tue, 15 Dec 2020 15:38:46 +0000",
+        "to": [
+            {
+                "name": "",
+                "email": "me@nathanganser.com>"
+            }
+        ]
+    },
+    {
+        "id": "17667058678c4961",
+        "history_id": "6425124",
+        "thread_id": "17667058678c4961",
+        "labels": [
+            "UNREAD",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "from": "\"David A. Fields\" ",
+        "from_name": "david@davidafields.com>",
+        "subject": "Closing Thursday. [Read this today]",
+        "date": "Tue, 15 Dec 2020 09:11:04 -0600",
+        "to": [
+            {
+                "name": "Natha ",
+                "email": "me@nathanganser.com>"
+            }
+        ]
+    },
+    {
+        "id": "17666de0c2ae8f6d",
+        "history_id": "6424805",
+        "thread_id": "17664fe4c122403c",
+        "labels": [
+            "SENT"
+        ],
+        "from": "Nathan Ganser ",
+        "from_name": "me@nathanganser.com>",
+        "subject": "Re: Nat Onboarding Feedback",
+        "date": "Tue, 15 Dec 2020 15:46:36 +0100",
+        "to": [
+            {
+                "name": "Josh Pitzalis ",
+                "email": "jxsh@hey.com>"
+            }
+        ]
+    },
+    {
+        "id": "17666cf3c1318248",
+        "history_id": "6424795",
+        "thread_id": "17666cf3c1318248",
+        "labels": [
+            "IMPORTANT",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "from": "\"Team at Nat.app\" ",
+        "from_name": "team@nat.app>",
+        "subject": "Get ready for Maria < > Nathan",
+        "date": "Tue, 15 Dec 2020 14:30:25 +0000",
+        "to": [
+            {
+                "name": "",
+                "email": "me@nathanganser.com"
+            }
+        ]
+    },
+    {
+        "id": "17666c4ba73dbfe3",
+        "history_id": "6424926",
+        "thread_id": "17666c4ba73dbfe3",
+        "labels": [
+            "IMPORTANT",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "from": "Frontier ",
+        "from_name": "frontier@pioneer.app>",
+        "subject": "adriankrebs replied to your feedback",
+        "date": "Tue, 15 Dec 2020 14:18:54 +0000 (UTC)",
+        "to": [
+            {
+                "name": "Nathan Ganser ",
+                "email": "me@nathanganser.com>"
+            }
+        ]
+    },
+    {
+        "id": "17666b3cd0002b81",
+        "history_id": "6423603",
+        "thread_id": "17666b3cd0002b81",
+        "labels": [
+            "UNREAD",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "from": "Stagecoach Bus ",
+        "from_name": "service@email.stagecoachbus.co.uk>",
+        "subject": "Travelling with us this Christmas",
+        "date": "Tue, 15 Dec 2020 14:00:18 +0000",
+        "to": []
+    },
+    {
+        "id": "17666b15c228ff99",
+        "history_id": "6423602",
+        "thread_id": "17666b15c228ff99",
+        "labels": [
+            "UNREAD",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "from": "Indie Hackers ",
+        "from_name": "community@indiehackers.com>",
+        "subject": "Top Milestones: Made my first sale 2 hours after the soft launch!",
+        "date": "Tue, 15 Dec 2020 08:57:42 -0500",
+        "to": [
+            {
+                "name": "",
+                "email": "me@nathanganser.com"
+            }
+        ]
+    },
+    {
+        "id": "176668e87ee3a8af",
+        "history_id": "6423601",
+        "thread_id": "176668e87ee3a8af",
+        "labels": [
+            "UNREAD",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "from": "\"Gitcoin.co\" ",
+        "from_name": "founders@gitcoin.co>",
+        "subject": "\ud83d\udcb05 Bounties, \ud83d\udee0\ud83d\udcc611 Events, \ud83c\udfaf1 Quest, ",
+        "date": "Tue, 15 Dec 2020 13:19:43 +0000 (UTC)",
+        "to": [
+            {
+                "name": "",
+                "email": "me@nathanganser.com"
+            }
+        ]
+    },
+    {
+        "id": "1766686f7591c5cf",
+        "history_id": "6423551",
+        "thread_id": "1766686f7591c5cf",
+        "labels": [
+            "CATEGORY_PROMOTIONS",
+            "UNREAD",
+            "INBOX"
+        ],
+        "from": "\"Voyage Priv\u00e9\" ",
+        "from_name": "news@email.voyageprive.com>",
+        "subject": "\ud83c\udf34 Zanzibar, Courchevel, Lac Majeur, Canaries, Algarve jusqu\u2019\u00e0 -80%",
+        "date": "Tue, 15 Dec 2020 14:11:51 +0100",
+        "to": [
+            {
+                "name": "",
+                "email": "nathanganserpro@gmail.com>"
+            }
+        ]
+    },
+    {
+        "id": "17666841031b6fb1",
+        "history_id": "6425009",
+        "thread_id": "17666841031b6fb1",
+        "labels": [
+            "IMPORTANT",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "from": "Frontier ",
+        "from_name": "frontier@pioneer.app>",
+        "subject": "nathangarcia replied to your feedback",
+        "date": "Tue, 15 Dec 2020 13:08:17 +0000 (UTC)",
+        "to": [
+            {
+                "name": "Nathan Ganser ",
+                "email": "me@nathanganser.com>"
+            }
+        ]
+    },
+    {
+        "id": "176667f81876566d",
+        "history_id": "6423599",
+        "thread_id": "176667f81876566d",
+        "labels": [
+            "UNREAD",
+            "IMPORTANT",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "from": "Frontier ",
+        "from_name": "frontier@pioneer.app>",
+        "subject": "natashaboella replied to your feedback",
+        "date": "Tue, 15 Dec 2020 13:03:18 +0000 (UTC)",
+        "to": [
+            {
+                "name": "Nathan Ganser ",
+                "email": "me@nathanganser.com>"
+            }
+        ]
+    },
+    {
+        "id": "176667bec31d4e03",
+        "history_id": "6423739",
+        "thread_id": "176667bec31d4e03",
+        "labels": [
+            "CATEGORY_PROMOTIONS",
+            "IMPORTANT",
+            "INBOX"
+        ],
+        "from": "\"Helsana+\" ",
+        "from_name": "news.plus@helsana.ch>",
+        "subject": "We reward your commitment",
+        "date": "Tue, 15 Dec 2020 12:59:25 +0000",
+        "to": [
+            {
+                "name": "Nathan Ganser ",
+                "email": "me@nathanganser.com>"
+            }
+        ]
+    },
+    {
+        "id": "176666745d46e93f",
+        "history_id": "6422397",
+        "thread_id": "176666745d46e93f",
+        "labels": [
+            "UNREAD",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "from": "Andrew Wordsworth ",
+        "from_name": "investments@sustainableventures.co.uk>",
+        "subject": "\ud83d\ude80\u00a0Final week to invest - Sustainable Accelerator 4",
+        "date": "Tue, 15 Dec 2020 12:36:44 +0000",
+        "to": [
+            {
+                "name": "",
+                "email": "me@nathanganser.com>"
+            }
+        ]
+    },
+    {
+        "id": "1766647aa0aff61f",
+        "history_id": "6422442",
+        "thread_id": "1766647aa0aff61f",
+        "labels": [
+            "IMPORTANT",
+            "CATEGORY_PERSONAL",
+            "INBOX"
+        ],
+        "from": "\"Nat.app Login Email\" ",
+        "from_name": "team@nat.app>",
+        "subject": "Nat.app - Login Code 7068364331",
+        "date": "Tue, 15 Dec 2020 12:01:22 +0000",
+        "to": [
+            {
+                "name": "",
+                "email": "me@nathanganser.com"
+            }
+        ]
+    },
+    {
+        "id": "176663120b628f7e",
+        "history_id": "6421389",
+        "thread_id": "176663120b628f7e",
+        "labels": [
+            "UNREAD",
+            "IMPORTANT",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "from": "Curve ",
+        "from_name": "curve@mail.curve.com>",
+        "subject": "Brexit\u2019s here. But we\u2019ve got your back.",
+        "date": "Tue, 15 Dec 2020 05:37:43 -0600",
+        "to": [
+            {
+                "name": "",
+                "email": "me@nathanganser.com>"
+            }
+        ]
+    },
+    {
+        "id": "1766626dfa3d1f11",
+        "history_id": "6421388",
+        "thread_id": "1766626dfa3d1f11",
+        "labels": [
+            "UNREAD",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "from": "Dynalist Newsletter ",
+        "from_name": "newsletter@dynalist.io>",
+        "subject": "Dynalist news - flat search, find and replace, word count, and more",
+        "date": "Tue, 15 Dec 2020 11:26:18 +0000",
+        "to": [
+            {
+                "name": "",
+                "email": "nathanganserpro@gmail.com"
+            }
+        ]
+    },
+    {
+        "id": "176661ec7b4a3239",
+        "history_id": "6421387",
+        "thread_id": "176661ec7b4a3239",
+        "labels": [
+            "UNREAD",
+            "IMPORTANT",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "from": "Frontier ",
+        "from_name": "frontier@pioneer.app>",
+        "subject": "phaethon-psichis replied to your feedback",
+        "date": "Tue, 15 Dec 2020 11:17:40 +0000 (UTC)",
+        "to": [
+            {
+                "name": "Nathan Ganser ",
+                "email": "me@nathanganser.com>"
+            }
+        ]
+    },
+    {
+        "id": "176661ba38f5ae44",
+        "history_id": "6425120",
+        "thread_id": "176661ba38f5ae44",
+        "labels": [
+            "IMPORTANT",
+            "CATEGORY_PERSONAL",
+            "INBOX"
+        ],
+        "from": "Rishi Narang ",
+        "from_name": "rishi@pioneer.app>",
+        "subject": "Launcher is on Product Hunt",
+        "date": "Tue, 15 Dec 2020 06:14:00 -0500",
+        "to": [
+            {
+                "name": "Pioneer Team ",
+                "email": "team@pioneer.app>"
+            }
+        ]
+    },
+    {
+        "id": "1766619e34d4f9e4",
+        "history_id": "6421386",
+        "thread_id": "1766619e34d4f9e4",
+        "labels": [
+            "UNREAD",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "from": "\"Freelancer.com\" ",
+        "from_name": "noreply@freelancer.com>",
+        "subject": "Contest Handover is complete and you now own Md. Salim G.'s entry!",
+        "date": "Tue, 15 Dec 2020 06:12:18 -0500",
+        "to": [
+            {
+                "name": "",
+                "email": "nathanganserpro@gmail.com"
+            }
+        ]
+    },
+    {
+        "id": "1766619e016dfe92",
+        "history_id": "6421385",
+        "thread_id": "1766619e016dfe92",
+        "labels": [
+            "UNREAD",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "from": "\"Freelancer.com\" ",
+        "from_name": "noreply@freelancer.com>",
+        "subject": "Provide feedback for Md. Salim G. for \"Create a Vue.js Onboarding\"",
+        "date": "Tue, 15 Dec 2020 06:12:18 -0500",
+        "to": [
+            {
+                "name": "",
+                "email": "nathanganserpro@gmail.com"
+            }
+        ]
+    },
+    {
+        "id": "176660fb1d19ab7e",
+        "history_id": "6421933",
+        "thread_id": "176660fb1d19ab7e",
+        "labels": [
+            "IMPORTANT",
+            "CATEGORY_PERSONAL",
+            "INBOX"
+        ],
+        "from": "Nathan Julian Ganser ",
+        "from_name": "Nathan.Ganser@etu.unige.ch>",
+        "subject": "FW: [GSEM - Universit\u00e9 de Gen\u00e8ve - Formation de base] Exam completion saved and sent to be corrected!",
+        "date": "Tue, 15 Dec 2020 11:01:11 +0000",
+        "to": [
+            {
+                "name": "\"me@nathanganser.com\" ",
+                "email": "me@nathanganser.com>"
+            }
+        ]
+    },
+    {
+        "id": "17666073e304e4a8",
+        "history_id": "6421800",
+        "thread_id": "17666073e304e4a8",
+        "labels": [
+            "CATEGORY_PROMOTIONS",
+            "UNREAD",
+            "INBOX"
+        ],
+        "from": "\"OUI.sncf\" ",
+        "from_name": "bonsplans@newsletter.oui.sncf>",
+        "subject": "J-10 avant No\u00ebl ! R\u00e9servez vos billets de train",
+        "date": "Tue, 15 Dec 2020 11:51:29 +0100",
+        "to": [
+            {
+                "name": "",
+                "email": "me@nathanganser.com>"
+            }
+        ]
+    },
+    {
+        "id": "17665feb186a8f73",
+        "history_id": "6421384",
+        "thread_id": "17665feb186a8f73",
+        "labels": [
+            "UNREAD",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "from": "HARO ",
+        "from_name": "haro@helpareporter.com>",
+        "subject": "[HARO] High Tech Queries: Morning  Edition",
+        "date": "Tue, 15 Dec 2020 05:38:28 -0500",
+        "to": [
+            {
+                "name": "Nathan Ganser ",
+                "email": "me@nathanganser.com>"
+            }
+        ]
+    },
+    {
+        "id": "17665ef180a022ca",
+        "history_id": "6421382",
+        "thread_id": "17665d89d0bfc30b",
+        "labels": [
+            "UNREAD",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "from": "Goodreads ",
+        "from_name": "no-reply@mail.goodreads.com>",
+        "subject": "Goodreads Newsletter: December 15, 2020",
+        "date": "Tue, 15 Dec 2020 10:25:36 +0000",
+        "to": [
+            {
+                "name": "",
+                "email": "me@nathanganser.com"
+            }
+        ]
+    },
+    {
+        "id": "17665e3ff78b7153",
+        "history_id": "6421383",
+        "thread_id": "17665e3ff78b7153",
+        "labels": [
+            "UNREAD",
+            "IMPORTANT",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "from": "Frontier ",
+        "from_name": "frontier@pioneer.app>",
+        "subject": "benlindsay replied to your feedback",
+        "date": "Tue, 15 Dec 2020 10:13:27 +0000 (UTC)",
+        "to": [
+            {
+                "name": "Nathan Ganser ",
+                "email": "me@nathanganser.com>"
+            }
+        ]
+    },
+    {
+        "id": "17665da53891cd43",
+        "history_id": "6421382",
+        "thread_id": "17665d89d0bfc30b",
+        "labels": [
+            "UNREAD",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "from": "Goodreads ",
+        "from_name": "no-reply@mail.goodreads.com>",
+        "subject": "Goodreads Newsletter: December 15, 2020",
+        "date": "Tue, 15 Dec 2020 10:02:54 +0000",
+        "to": [
+            {
+                "name": "",
+                "email": "moi@nathanganser.com"
+            }
+        ]
+    },
+    {
+        "id": "17665d89d0bfc30b",
+        "history_id": "6421382",
+        "thread_id": "17665d89d0bfc30b",
+        "labels": [
+            "UNREAD",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "from": "Goodreads ",
+        "from_name": "no-reply@mail.goodreads.com>",
+        "subject": "Goodreads Newsletter: December 15, 2020",
+        "date": "Tue, 15 Dec 2020 10:01:00 +0000",
+        "to": []
+    },
+    {
+        "id": "17665d06c60b5454",
+        "history_id": "6419965",
+        "thread_id": "17665d06c60b5454",
+        "labels": [
+            "IMPORTANT",
+            "CATEGORY_PERSONAL",
+            "INBOX"
+        ],
+        "from": "Nathan Julian Ganser ",
+        "from_name": "Nathan.Ganser@etu.unige.ch>",
+        "subject": "FW: Reset Password",
+        "date": "Tue, 15 Dec 2020 09:52:05 +0000",
+        "to": [
+            {
+                "name": "\"me@nathanganser.com\" ",
+                "email": "me@nathanganser.com>"
+            }
+        ]
+    },
+    {
+        "id": "17665ced2eb4f27a",
+        "history_id": "6421381",
+        "thread_id": "17665ced2eb4f27a",
+        "labels": [
+            "UNREAD",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "from": "\"Freelancer.com\" ",
+        "from_name": "noreply@freelancer.com>",
+        "subject": "Md. Salim G. has uploaded the entry files on Freelancer.com!",
+        "date": "Tue, 15 Dec 2020 04:50:19 -0500",
+        "to": [
+            {
+                "name": "",
+                "email": "nathanganserpro@gmail.com"
+            }
+        ]
+    },
+    {
+        "id": "17665beb721584cc",
+        "history_id": "6421380",
+        "thread_id": "17665beb721584cc",
+        "labels": [
+            "UNREAD",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "from": "GitHub ",
+        "from_name": "noreply@github.com>",
+        "subject": "Your Dependabot alerts for the week of Dec 8 - Dec 15",
+        "date": "Tue, 15 Dec 2020 09:32:43 +0000 (UTC)",
+        "to": [
+            {
+                "name": "Nathan Ganser ",
+                "email": "me@nathanganser.com>"
+            }
+        ]
+    },
+    {
+        "id": "176659ed2d5c3719",
+        "history_id": "6419693",
+        "thread_id": "176659ed2d5c3719",
+        "labels": [
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "from": "Fahadul Islam ",
+        "from_name": "noreply@github.com>",
+        "subject": "DaPotatoMan invited you to DaPotatoMan/onboarding-site",
+        "date": "Tue, 15 Dec 2020 00:57:55 -0800",
+        "to": [
+            {
+                "name": "",
+                "email": "me@nathanganser.com"
+            }
+        ]
+    },
+    {
+        "id": "17665957f06818ba",
+        "history_id": "6419624",
+        "thread_id": "17665957f06818ba",
+        "labels": [
+            "UNREAD",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "from": "\"Freelancer.com\" ",
+        "from_name": "noreply@freelancer.com>",
+        "subject": "It's time to own iamSalim's entry on Freelancer.com!",
+        "date": "Tue, 15 Dec 2020 03:47:41 -0500",
+        "to": [
+            {
+                "name": "",
+                "email": "nathanganserpro@gmail.com"
+            }
+        ]
+    },
+    {
+        "id": "1766590041308552",
+        "history_id": "6421799",
+        "thread_id": "1766590041308552",
+        "labels": [
+            "IMPORTANT",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "from": "Pioneer ",
+        "from_name": "team@pioneer.app>",
+        "subject": "Your Pioneer rank after weekly voting is...",
+        "date": "Tue, 15 Dec 2020 08:41:29 +0000 (UTC)",
+        "to": [
+            {
+                "name": "Nathan Ganser ",
+                "email": "me@nathanganser.com>"
+            }
+        ]
+    },
+    {
+        "id": "176658d574088c51",
+        "history_id": "6426557",
+        "thread_id": "176658d574088c51",
+        "labels": [
+            "IMPORTANT",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "from": "Slack ",
+        "from_name": "feedback@slack.com>",
+        "subject": "Stefano Glauser has invited you to work with them in Slack",
+        "date": "Tue, 15 Dec 2020 08:38:50 +0000",
+        "to": [
+            {
+                "name": "",
+                "email": "me@nathanganser.com>"
+            }
+        ]
+    },
+    {
+        "id": "176658cec581acb7",
+        "history_id": "6426556",
+        "thread_id": "176658cec581acb7",
+        "labels": [
+            "IMPORTANT",
+            "CATEGORY_PERSONAL",
+            "INBOX"
+        ],
+        "from": "",
+        "from_name": "",
+        "subject": "Invitation: X-Mas Startup Jam Session \ud83c\udf84 @ Tue Dec 15, 2020 6:30pm - 8:30pm (CET) (Nathan Ganser)",
+        "date": "Tue, 15 Dec 2020 08:38:23 +0000",
+        "to": [
+            {
+                "name": "Nathan Ganser ",
+                "email": "me@nathanganser.com>"
+            }
+        ]
+    },
+    {
+        "id": "176658caed632a85",
+        "history_id": "6426610",
+        "thread_id": "176658caed632a85",
+        "labels": [
+            "IMPORTANT",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "from": "Claude ",
+        "from_name": "claude@tomahawk.vc>",
+        "subject": "Latest Info for today's Jam Session \ud83d\udcbb",
+        "date": "Tue, 15 Dec 2020 08:38:06 +0000",
+        "to": [
+            {
+                "name": "",
+                "email": "me@nathanganser.com>"
+            }
+        ]
+    },
+    {
+        "id": "17665880d4dfe9cb",
+        "history_id": "6420697",
+        "thread_id": "1761ff1e1ff1c0ba",
+        "labels": [
+            "CATEGORY_UPDATES",
+            "SENT"
+        ],
+        "from": "Nathan Ganser ",
+        "from_name": "me@nathanganser.com>",
+        "subject": "Re: Plai Product Updates, Dec 1: \ud83d\uddd3 Microsoft Outlook and Teams integration, \ud83d\udcca PDPs, \ud83d\udcc8 1:1 Dashboard, \ud83c\udfd4 Org. chart",
+        "date": "Tue, 15 Dec 2020 09:33:02 +0100",
+        "to": [
+            {
+                "name": "Andriy Bas ",
+                "email": "andriy.bas@plai.team>"
+            }
+        ]
+    },
+    {
+        "id": "176656a4ecf173be",
+        "history_id": "6419620",
+        "thread_id": "176656a4ecf173be",
+        "labels": [
+            "UNREAD",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "from": "\"Freelancer.com\" ",
+        "from_name": "noreply@freelancer.com>",
+        "subject": "Receipt for deposits on Freelancer, ID: 130662066",
+        "date": "Tue, 15 Dec 2020 03:00:32 -0500",
+        "to": [
+            {
+                "name": "",
+                "email": "nathanganserpro@gmail.com"
+            }
+        ]
+    },
+    {
+        "id": "176653e9bbdf27de",
+        "history_id": "6419562",
+        "thread_id": "1766222dde0cbdc0",
+        "labels": [
+            "IMPORTANT",
+            "CATEGORY_PERSONAL",
+            "INBOX"
+        ],
+        "from": "MariaGiovannaDemontis ",
+        "from_name": "mgdemontis@yahoo.it>",
+        "subject": "R: Re: Maria < > Nathan",
+        "date": "Tue, 15 Dec 2020 07:12:40 +0000 (UTC)",
+        "to": [
+            {
+                "name": "Nathan Ganser ",
+                "email": "me@nathanganser.com>"
+            }
+        ]
+    },
+    {
+        "id": "176653ce4f8576f6",
+        "history_id": "6419619",
+        "thread_id": "176653ce4f8576f6",
+        "labels": [
+            "UNREAD",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "from": "\"mgdemontis@yahoo.it (Google Calendar)\" ",
+        "from_name": "calendar-notification@google.com>",
+        "subject": "Accepted: Maria < > Nathan @ Tue Dec 15, 2020 4pm - 4:30pm (CET) (Nathan Ganser)",
+        "date": "Tue, 15 Dec 2020 07:10:57 +0000",
+        "to": [
+            {
+                "name": "Nathan Ganser ",
+                "email": "me@nathanganser.com>"
+            }
+        ]
+    },
+    {
+        "id": "17664fe4c122403c",
+        "history_id": "6424686",
+        "thread_id": "17664fe4c122403c",
+        "labels": [
+            "IMPORTANT",
+            "CATEGORY_PERSONAL",
+            "INBOX"
+        ],
+        "from": "Josh Pitzalis ",
+        "from_name": "jxsh@hey.com>",
+        "subject": "Nat Onboarding Feedback",
+        "date": "Tue, 15 Dec 2020 11:32:19 +0530",
+        "to": [
+            {
+                "name": "Nathan Ganser ",
+                "email": "me@nathanganser.com>"
+            }
+        ]
+    },
+    {
+        "id": "17664f5320292980",
+        "history_id": "6424158",
+        "thread_id": "17664f5320292980",
+        "labels": [
+            "IMPORTANT",
+            "CATEGORY_PERSONAL",
+            "INBOX"
+        ],
+        "from": "\"Josh Pitzalis (via Google Sheets)\" ",
+        "from_name": "joshpitzalis@gmail.com>",
+        "subject": "Nat Product Stretgy - Invitation to edit",
+        "date": "Tue, 15 Dec 2020 05:52:38 +0000",
+        "to": [
+            {
+                "name": "",
+                "email": "me@nathanganser.com"
+            }
+        ]
+    },
+    {
+        "id": "17664b13499a1cea",
+        "history_id": "6419613",
+        "thread_id": "176622b2f2186c17",
+        "labels": [
+            "UNREAD",
+            "IMPORTANT",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "from": "YouTube ",
+        "from_name": "noreply@youtube.com>",
+        "subject": "New comment on \"Top 5: Meilleurs Banques En Ligne\"",
+        "date": "Mon, 14 Dec 2020 20:38:21 -0800",
+        "to": [
+            {
+                "name": "\"MaVieEstG\u00e9niale\" ",
+                "email": "ma-vie-est-geni-9608@pages.plusgoogle.com>"
+            }
+        ]
+    },
+    {
+        "id": "17664af0b091c268",
+        "history_id": "6421521",
+        "thread_id": "17664af0b091c268",
+        "labels": [
+            "IMPORTANT",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "from": "Denner ",
+        "from_name": "info@denner.ch>",
+        "subject": "Aktionsalarm",
+        "date": "Tue, 15 Dec 2020 05:35:30 +0100",
+        "to": []
+    },
+    {
+        "id": "1766465d69092c36",
+        "history_id": "6424072",
+        "thread_id": "1764345161c54faa",
+        "labels": [
+            "IMPORTANT",
+            "CATEGORY_PERSONAL",
+            "INBOX"
+        ],
+        "from": "Kody Hayes ",
+        "from_name": "fatpanda89921@gmail.com>",
+        "subject": "Re: Market",
+        "date": "Tue, 15 Dec 2020 14:15:58 +1100",
+        "to": [
+            {
+                "name": "Nathan Ganser ",
+                "email": "me@nathanganser.com>"
+            }
+        ]
+    },
+    {
+        "id": "17664397fb6800ac",
+        "history_id": "6419617",
+        "thread_id": "17664397fb6800ac",
+        "labels": [
+            "UNREAD",
+            "IMPORTANT",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "from": "\"Amazon Web Services, Inc.\" ",
+        "from_name": "no-reply-aws@amazon.com>",
+        "subject": "AWS CodePipeline is updating pipeline execution statuses [AWS Account: 491575131933]",
+        "date": "Tue, 15 Dec 2020 02:27:37 +0000",
+        "to": [
+            {
+                "name": "",
+                "email": "me@nathanganser.com"
+            }
+        ]
+    },
+    {
+        "id": "17663cf7dcbcb293",
+        "history_id": "6419616",
+        "thread_id": "17663cf7dcbcb293",
+        "labels": [
+            "UNREAD",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "from": "GitHub ",
+        "from_name": "noreply@github.com>",
+        "subject": "Changes to service overage terms",
+        "date": "14 Dec 2020 19:30:35 -0500",
+        "to": [
+            {
+                "name": "",
+                "email": "me@nathanganser.com"
+            }
+        ]
+    },
+    {
+        "id": "17663b068ba99ce0",
+        "history_id": "6426467",
+        "thread_id": "17663b068ba99ce0",
+        "labels": [
+            "IMPORTANT",
+            "CATEGORY_PERSONAL",
+            "INBOX"
+        ],
+        "from": "Gleb Posobin ",
+        "from_name": "gleb@santa.posobin.com>",
+        "subject": "Secret Santa: your giftee's info",
+        "date": "Mon, 14 Dec 2020 23:57:43 +0000",
+        "to": [
+            {
+                "name": "",
+                "email": "me@nathanganser.com"
+            }
+        ]
+    },
+    {
+        "id": "1766389ee2377c6a",
+        "history_id": "6419615",
+        "thread_id": "1766389ee2377c6a",
+        "labels": [
+            "UNREAD",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "from": "Michka ",
+        "from_name": "michka.melo@gmail.com>",
+        "subject": "Un sac de couchage",
+        "date": "Mon, 14 Dec 2020 23:15:50 +0000",
+        "to": [
+            {
+                "name": "",
+                "email": "me@nathanganser.com>"
+            }
+        ]
+    },
+    {
+        "id": "176636be9c337043",
+        "history_id": "6419614",
+        "thread_id": "176636be9c337043",
+        "labels": [
+            "UNREAD",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "from": "HARO ",
+        "from_name": "haro@helpareporter.com>",
+        "subject": "[HARO] High Tech Queries: Evening Edition",
+        "date": "Mon, 14 Dec 2020 17:40:24 -0500",
+        "to": [
+            {
+                "name": "Nathan Ganser ",
+                "email": "me@nathanganser.com>"
+            }
+        ]
+    },
+    {
+        "id": "17662f1f6bd246c8",
+        "history_id": "6422522",
+        "thread_id": "17662f1f6bd246c8",
+        "labels": [
+            "CATEGORY_PERSONAL",
+            "INBOX"
+        ],
+        "from": "Nathan Julian Ganser ",
+        "from_name": "Nathan.Ganser@etu.unige.ch>",
+        "subject": "FW: [GSEM - Universit\u00e9 de Gen\u00e8ve - Formation de base] A New Exam is here for you!",
+        "date": "Mon, 14 Dec 2020 20:29:51 +0000",
+        "to": [
+            {
+                "name": "\"me@nathanganser.com\" ",
+                "email": "me@nathanganser.com>"
+            }
+        ]
+    },
+    {
+        "id": "17662e615d7668da",
+        "history_id": "6417566",
+        "thread_id": "17662e615d7668da",
+        "labels": [
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "from": "Bitstamp ",
+        "from_name": "newsletter@team.bitstamp.net>",
+        "subject": "Verify your phone number to get ready for improved security features",
+        "date": "Mon, 14 Dec 2020 20:16:50 +0000 (UTC)",
+        "to": [
+            {
+                "name": "Nathan Julian ",
+                "email": "nathanganserpro@gmail.com>"
+            }
+        ]
+    },
+    {
+        "id": "17662d7d187cd4fe",
+        "history_id": "6433525",
+        "thread_id": "1766221ce9db0659",
+        "labels": [
+            "IMPORTANT",
+            "CATEGORY_PERSONAL",
+            "INBOX"
+        ],
+        "from": "\"Tomek Wo\u017aniak\" ",
+        "from_name": "tomek@tomekwozniak.pl>",
+        "subject": "Re: Catching up :)",
+        "date": "Mon, 14 Dec 2020 21:01:17 +0100",
+        "to": [
+            {
+                "name": "Nathan Ganser ",
+                "email": "me@nathanganser.com>"
+            }
+        ]
+    },
+    {
+        "id": "17662d730e941413",
+        "history_id": "6417300",
+        "thread_id": "17662d730e941413",
+        "labels": [
+            "UNREAD",
+            "IMPORTANT",
+            "CATEGORY_PERSONAL",
+            "INBOX"
+        ],
+        "from": "",
+        "from_name": "",
+        "subject": "Accepted: Tomek / Nathan @ Wed Dec 16, 2020 4pm - 4:30pm (CET) (Nathan Ganser)",
+        "date": "Mon, 14 Dec 2020 20:00:38 +0000",
+        "to": [
+            {
+                "name": "Nathan Ganser ",
+                "email": "me@nathanganser.com>"
+            }
+        ]
+    },
+    {
+        "id": "17662d044d5618c7",
+        "history_id": "6433525",
+        "thread_id": "1766221ce9db0659",
+        "labels": [
+            "SENT"
+        ],
+        "from": "Nathan Ganser ",
+        "from_name": "me@nathanganser.com>",
+        "subject": "Re: Catching up :)",
+        "date": "Mon, 14 Dec 2020 20:53:03 +0100",
+        "to": [
+            {
+                "name": "\"Tomek Wo\u017aniak\" ",
+                "email": "tomek@tomekwozniak.pl>"
+            }
+        ]
+    },
+    {
+        "id": "17662cd2db32d36a",
+        "history_id": "6416978",
+        "thread_id": "176565e5be5e2499",
+        "labels": [
+            "IMPORTANT",
+            "CATEGORY_PERSONAL",
+            "INBOX"
+        ],
+        "from": "Jeremy Lubin ",
+        "from_name": "jeremy@queue.community>",
+        "subject": "Re: G Contacts + Article",
+        "date": "Mon, 14 Dec 2020 11:49:30 -0800",
+        "to": [
+            {
+                "name": "Nathan Ganser ",
+                "email": "me@nathanganser.com>"
+            }
+        ]
+    },
+    {
+        "id": "17662b1678415461",
+        "history_id": "6416979",
+        "thread_id": "17662b1678415461",
+        "labels": [
+            "UNREAD",
+            "CATEGORY_UPDATES",
+            "INBOX"
+        ],
+        "from": "MeisterTask ",
+        "from_name": "no-reply@m.meistertask.com>",
+        "subject": "Nat, you look like you could use some productivity tips",
+        "date": "Mon, 14 Dec 2020 19:19:18 +0000",
+        "to": [
+            {
+                "name": "Nat H ",
+                "email": "me@nathanganser.com>"
+            }
+        ]
+    }
+]
